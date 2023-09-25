@@ -70,6 +70,8 @@
 </div>
 
 
+<h1 align="center">Certifications</h1>
+
 
 
 ###
