@@ -69,7 +69,7 @@
   <img src="https://streak-stats.demolab.com?user=LucasWessel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-[Lucas Wessel.pdf](https://github.com/LucasWessel/LucasWessel/files/12715799/Lucas.Wessel.pdf)
+
 
 
 ###
