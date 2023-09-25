@@ -71,7 +71,7 @@
 
 
 <h1 align="center">Certifications</h1>
-
+[Android Application Development Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/12715882/Android.Application.Development.Certificate.pdf)
 
 
 ###
