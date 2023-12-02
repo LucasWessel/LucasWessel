@@ -74,7 +74,9 @@
 
 [Android Application Development Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/12715926/Android.Application.Development.Certificate.pdf)
 
-[Front End Development -CSS Certification.pdf](https://github.com/LucasWessel/LucasWessel/files/12715909/Front.End.Development.-CSS.Certification.pdf)
+[Front End Development CSS Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/12715909/Front.End.Development.-CSS.Certification.pdf)
+
+[Google Analytics für Anfänger Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/13536586/Google.Analytics.fur.Anfanger.Certificate.pdf)
 
 
 ###
