@@ -78,5 +78,8 @@
 
 [Google Analytics für Anfänger Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/13536586/Google.Analytics.fur.Anfanger.Certificate.pdf)
 
+[Cisco Cybersecurity Essentials Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/13536951/Cisco.Cybersecurity.Essentials.Certificate.pdf)
+
+
 
 ###
