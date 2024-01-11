@@ -80,7 +80,10 @@
 
 [Cisco Cybersecurity Essentials Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/13536951/Cisco.Cybersecurity.Essentials.Certificate.pdf)
 
-[JavaScript_Essentials_1_Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/13640738/JavaScript_Essentials_Certificate.pdf)
+[Cisco JavaScript_Essentials_1_Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/13640738/JavaScript_Essentials_Certificate.pdf)
+
+[Cisco Introduction_to_Cybersecurity.pdf](https://github.com/LucasWessel/LucasWessel/files/13907411/Introduction_to_Cybersecurity.pdf)
+
 
 
 ###
