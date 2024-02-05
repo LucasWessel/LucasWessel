@@ -86,4 +86,5 @@
 
 [Cisco_Network_Support_and_Security Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/14002255/Cisco_Network_Support_and_Security.Certificate.pdf)
 
-###
+###![network-defense](https://github.com/LucasWessel/LucasWessel/assets/142709074/e3da7dc7-7c11-492d-9f22-67b07668d7bd)
+
