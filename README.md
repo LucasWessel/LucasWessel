@@ -85,11 +85,7 @@
 [Cisco Introduction_to_Cybersecurity.pdf](https://github.com/LucasWessel/LucasWessel/files/13907411/Introduction_to_Cybersecurity.pdf)
 
 [Cisco_Network_Support_and_Security Certificate.pdf](https://github.com/LucasWessel/LucasWessel/files/14002255/Cisco_Network_Support_and_Security.Certificate.pdf)
-![network-defense (1)](https://github.com/LucasWessel/LucasWessel/assets/142709074/d04fc182-2a0e-40f0-ad1a-0a0a7a8e5c43)
-![introduction-to-cybersecurity](https://github.com/LucasWessel/LucasWessel/assets/142709074/b9d685dd-11cd-4bbf-a148-640bda905a19)
-![cybersecurity-essentials](https://github.com/LucasWessel/LucasWessel/assets/142709074/8ed3c538-6d5d-4278-adf8-080e9f715619)
-![network-support-and-security](https://github.com/LucasWessel/LucasWessel/assets/142709074/7d251d40-e3c6-48bf-a971-dcf0e6d722a1)
-![javascript-essentials-1](https://github.com/LucasWessel/LucasWessel/assets/142709074/e9efea6e-ab2c-4223-b6a6-e98fda6c8162)
+
 
 
 
