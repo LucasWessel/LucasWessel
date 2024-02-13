@@ -77,8 +77,7 @@
 ![introduction-to-cybersecurity](https://github.com/LucasWessel/LucasWessel/assets/142709074/bd16fd4c-2e60-42a8-821b-2dc673750c24)
 ![javascript-essentials-1](https://github.com/LucasWessel/LucasWessel/assets/142709074/d54dd8bd-dd77-412a-80c4-ab68291f7e63)
 ![cybersecurity-essentials](https://github.com/LucasWessel/LucasWessel/assets/142709074/bcd83bdf-dcdc-4e99-a499-7f415ee82096)
-![networking-basics (3)](https://github.com/LucasWessel/LucasWessel/assets/142709074/d4122ccd-e6cf-4989-b75c-8e869be899ef)
-
+![networking-basics (4)](https://github.com/LucasWessel/LucasWessel/assets/142709074/b95f7f84-aa26-4c3f-bb5c-125a4d013f9f)
 
 
 
